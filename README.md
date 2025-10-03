@@ -25,5 +25,5 @@ The dataset contains numeric features (e.g., Age, Income, LoanAmount, CreditScor
 
 ## Results (at-a-glance)
 - Logistic Regression: Accuracy ≈ 0.68, ROC AUC ≈ 0.745.
-- Random Forest: Accuracy ≈ 0.98, ROC AUC reported ≈ 0.98 (likely inflated; inconsistent logging found in the notebook).
-*See the report for detailed confusion matrices, classification reports, and a discussion of why the Random Forest results should be revalidated.*
+- Random Forest: Accuracy ≈ 0.98, ROC AUC reported ≈ 0.98. \n
+* See the report for detailed confusion matrices, classification reports, and a discussion of why the Random Forest results should be revalidated. *
